@@ -14,3 +14,4 @@ I run call center operations and build the tools behind them. I work AI-first: I
 ### Find me
 
 [Website](https://heydavidmorales.com/?utm_source=github&utm_medium=profile) · [LinkedIn](https://www.linkedin.com/in/heydavidmorales/) · [Resume](https://heydavidmorales.com/resume.pdf) · david@heydavidmorales.com
+
